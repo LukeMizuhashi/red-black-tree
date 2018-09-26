@@ -24,6 +24,7 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "binary-search-tree": "git+ssh://git@github.com/LukeMizuhashi/binary-search-tree.git"
+    "binary-search-tree": "git+ssh://git@github.com/LukeMizuhashi/binary-search-tree.git",
+    "red-black-node": "git+ssh://git@github.com/LukeMizuhashi/red-black-node.git"
   }
 }
